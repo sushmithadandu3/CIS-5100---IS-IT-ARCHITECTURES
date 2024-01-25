@@ -17,4 +17,4 @@ available resources.
 
 
 This report will review the findings of current studies on the issue and address significant 
-facts
+facts.
